@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.test
+.env*
+dist/
+*.env*
+core
+
+# MacDS
+.DS_Store
