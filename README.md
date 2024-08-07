@@ -38,7 +38,7 @@ Here are some of the project's features
 Clone the project
 
 ```bash
-git clone https://github.com/satnaing/haru-api.git
+git clone https://github.com/softking0503/haru-api.git
 ```
 
 Go to the project directory
